@@ -14,6 +14,7 @@ Our multi-agent recruitment system includes three agents: a Resume Analyzer, an 
 
 **Features:
 **
+
 Intelligent resume analysis with skill matching and experience assessment
 
 Automated interview scheduling with Zoom integration
@@ -42,6 +43,7 @@ Secure API integration with OpenAI, Zoom, and email services
 
 **How the App Works
 **
+
 he system operates through a coordinated team of specialized AI agents:
 
 Resume Analyzer Agent:
@@ -94,8 +96,10 @@ Email agent sends constructive feedback with improvement suggestions
 
 **Prerequisites
 **
+
 **Before we begin, make sure you have the following:
 **
+
 Python installed on your machine (version 3.10 or higher is recommended)
 
 OpenAI API key for GPT-4o
@@ -108,6 +112,7 @@ A code editor of your choice (we recommend VS Code or PyCharm for their excellen
 
 Basic familiarity with Python programming
 **
+
 Things to do before running the application:**
 
 Create/Use a new Gmail account for the recruiter
